@@ -6,8 +6,6 @@ This project aims to analyze how significant global events affect Brent oil pric
 - `data/`: Contains raw and processed data files.
 - `notebooks/`: Jupyter notebooks for each step of the analysis.
 - `src/`: Scripts for data processing, change point detection, modeling, and causal impact analysis.
-- `reports/`: Contains the interim report.
-
 ## Getting Started
 
 1. Clone the repository.
